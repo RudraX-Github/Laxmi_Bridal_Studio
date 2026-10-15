@@ -1,0 +1,12 @@
+{
+  "name": "laxmi-bridal-studio",
+  "version": "1.0.0",
+  "description": "Laxmi Bridal Studio (Beaut\u00e9 naturelle) \u2014 60fps 3D/Canvas Scrollytelling Website & Google Sheets Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

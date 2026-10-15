@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <linearGradient id="brushedGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e5c896"/>
+      <stop offset="50%" stop-color="#b8925a"/>
+      <stop offset="100%" stop-color="#8b6938"/>
+    </linearGradient>
+    <linearGradient id="botanicalSage" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6b8570"/>
+      <stop offset="100%" stop-color="#4a5d4e"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="55" stroke="url(#brushedGold)" stroke-width="1" stroke-dasharray="3 3" opacity="0.72"/>
+  <circle cx="60" cy="60" r="49" stroke="url(#botanicalSage)" stroke-width="0.8" opacity="0.48"/>
+  <path d="M26 62C30 48 42 44 54 56C42 62 32 64 26 62Z" fill="rgba(74,93,78,0.18)" stroke="url(#botanicalSage)" stroke-width="1.3"/>
+  <path d="M94 62C90 48 78 44 66 56C78 62 88 64 94 62Z" fill="rgba(74,93,78,0.18)" stroke="url(#botanicalSage)" stroke-width="1.3"/>
+  <path d="M60 16C52 28 48 40 60 54C72 40 68 28 60 16Z" stroke="url(#brushedGold)" stroke-width="1.7" fill="rgba(184,146,90,0.16)"/>
+  <path d="M42 24C36 36 40 48 58 55C50 41 48 31 42 24Z" stroke="url(#brushedGold)" stroke-width="1.4" fill="rgba(184,146,90,0.10)"/>
+  <path d="M78 24C84 36 80 48 62 55C70 41 72 31 78 24Z" stroke="url(#brushedGold)" stroke-width="1.4" fill="rgba(184,146,90,0.10)"/>
+  <path d="M32 66C42 78 78 78 88 66" stroke="url(#brushedGold)" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M40 76C50 85 70 85 80 76" stroke="url(#botanicalSage)" stroke-width="1.2" stroke-linecap="round"/>
+  <circle cx="60" cy="36" r="3.2" fill="#b8925a"/>
+  <circle cx="60" cy="62" r="4.2" fill="#4a5d4e"/>
+</svg>
